@@ -10,6 +10,10 @@ Author: Ashok Fernandez
 Author: Darren O'Neill
 Author: Jarrad Raumati 
 Date: 20/09/2013
+
+
+Author: Dilas Che
+as edited and added on 15/01/2018
 '''
 
 # Import the currency exchange module
