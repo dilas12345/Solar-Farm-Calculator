@@ -16,9 +16,9 @@ Date: 20/09/2013
 import SolarCalculator.Utils.PyExchangeRates
 
 # Create a global currency exchange for all the assets to share. This stops the currency API from being hit too many times.
-CURRENCY_EXCHANGE = SolarCalculator.Utils.PyExchangeRates.Exchange('843ce8fdc22c47779fb3040c2ba9a586')
+CURRENCY_EXCHANGE = SolarCalculator.Utils.PyExchangeRates.Exchange('cb5dad4862e4417c93aefef35d907f11')
 
-
+#backup for api incase the one above did not work "843ce8fdc22c47779fb3040c2ba9a586"
 
 # --------------------------------------------------------------------------------------------------
 # ASSET SUPERCLASS
